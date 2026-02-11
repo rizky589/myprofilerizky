@@ -209,17 +209,16 @@ Key Achievements:
 ];
 
 export const skills = {
-  backend: ["Golang", "Node.js (Express, NestJS)", "gRPC", "RESTful APIs", "GraphQL"],
+  backend: ["Golang", "Node.js (Express, NestJS)", "Capacitor JS", "Laravel Filament(PHP)", "Vue JS"],
   frontend: ["React.js", "Next.js", "TypeScript", "HTML/CSS"],
   mobile: ["Flutter (Dart)", "React Native"],
   database: ["PostgreSQL", "MySQL", "MongoDB", "Firebase Firestore"],
   devops: ["Docker", "Git", "CI/CD"],
   messaging: ["RabbitMQ", "Webhooks", "API Integration"],
   networking: ["TCP/IP & OSI Model","LAN/WAN Configuration", "VLAN","Routing & Switching","VPN (IPSec, L2TP)",    "DNS & DHCP Management","Firewall Configuration","Network Troubleshooting","VoIP / PABX (Avaya)"],
-  observability: ["OpenTelemetry", "Logging", "Tracing"],
   infrastructure: ["Linux Server Management","Windows Server","Active Directory","Virtualization (VMware / VirtualBox)"],
   ai_chatbot: ["Dialogflow","DeepSeek Integration","Conversational AI"],
-  security: ["JWT Auth", "OAuth", "Payload Signing", "RBAC Authorization", "TLS/SSL", "e-KYC Integration"],
+  
 };
 
 export const education = [
