@@ -243,7 +243,7 @@ export const certifications = [
 export const coreExpertise = {
   headline: "Building Secure & Scalable Digital Systems",
   subheadline: "Cybersecurity • Network Engineer • Software Engineer",
-  description: "I specialize in building secure applications, resilient network infrastructures, and high-performance backend systems. With experience in government and banking projects, I deliver reliable digital solutions designed with security, scalability, and operational excellence in mind.",
+  description: "I specialize in building secure applications, resilient network infrastructures, and high-performance backend systems. With experience in government and Infomedia, I deliver reliable digital solutions designed with security, scalability, and operational excellence in mind.",
   services: [
     {
       title: "Backend Development",
