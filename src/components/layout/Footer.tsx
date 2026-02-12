@@ -17,7 +17,7 @@ export default function Footer() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const whatsappLink = `https://wa.me/${profile.whatsapp}?text=Hi%20Dandi,%20I%20found%20your%20profile%20and%20would%20like%20to%20connect!`;
+  const whatsappLink = `https://wa.me/${profile.whatsapp}?text=Hi%20Rizky,%20I%20found%20your%20profile%20and%20would%20like%20to%20connect!`;
 
   return (
     <footer className="py-8 md:py-12 px-4 md:px-6 border-t border-[#1a1a1a]">

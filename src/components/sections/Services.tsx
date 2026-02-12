@@ -8,7 +8,7 @@ import { staggerContainer, staggerItem } from "../animations/variants";
 import { FaWhatsapp, FaEnvelope } from "react-icons/fa";
 
 export default function Services() {
-  const whatsappLink = `https://wa.me/${profile.whatsapp}?text=Hi%20Dandi,%20I'd%20like%20to%20discuss%20a%20project%20with%20you!`;
+  const whatsappLink = `https://wa.me/${profile.whatsapp}?text=Hi%20Rizky,%20I'd%20like%20to%20discuss%20a%20project%20with%20you!`;
 
   return (
     <section

@@ -18,7 +18,7 @@ import {
 export default function Hero() {
   const [nameComplete, setNameComplete] = useState(false);
 
-  const whatsappLink = `https://wa.me/${profile.whatsapp}?text=Hi%20Dandi,%20I%20found%20your%20profile%20and%20would%20like%20to%20connect!`;
+  const whatsappLink = `https://wa.me/${profile.whatsapp}?text=Hi%20Rizky,%20I%20found%20your%20profile%20and%20would%20like%20to%20connect!`;
 
   return (
     <section className="min-h-screen flex items-center justify-center px-4 md:px-6 pt-20 pb-10 relative overflow-hidden">
